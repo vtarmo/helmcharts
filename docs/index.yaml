@@ -3,7 +3,7 @@ entries:
   zoneee-webhook:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2025-06-30T10:14:34.810077+03:00"
+    created: "2025-06-30T10:19:32.806371+03:00"
     description: Zone.ee DNS01 challenge solver for cert-manager
     digest: 46326e30eb383974fbf0e3bb7224fe5307c7912ff0712621b2c55b85b055a43a
     maintainers:
@@ -11,6 +11,6 @@ entries:
       name: vtarmo
     name: zoneee-webhook
     urls:
-    - https://vtarmo.github.io/helmcharts/charts/zoneee-webhook-1.0.0.tgz
+    - https://vtarmo.github.io/helmcharts/docs/zoneee-webhook-1.0.0.tgz
     version: 1.0.0
-generated: "2025-06-30T10:14:34.808981+03:00"
+generated: "2025-06-30T10:19:32.805958+03:00"
