@@ -3,7 +3,27 @@ entries:
   hive-metastore:
   - apiVersion: v2
     appVersion: 4.2.0
-    created: "2026-03-19T14:58:24.417376+02:00"
+    created: "2026-04-27T10:17:57.751174+03:00"
+    description: Hive Metastore for Superset and Trino
+    digest: 4d3c83a630d2772082ec7069650544923024e8d448dedd498af67ca1a677e13c
+    name: hive-metastore
+    type: application
+    urls:
+    - https://vtarmo.github.io/helmcharts/docs/hive-metastore-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 4.2.0
+    created: "2026-04-27T10:17:57.74895+03:00"
+    description: Hive Metastore for Superset and Trino
+    digest: d70d28142c126e2856ed1c81c7ae68397d06fa24a6564e99b71a32ba3b6d96ce
+    name: hive-metastore
+    type: application
+    urls:
+    - https://vtarmo.github.io/helmcharts/hive-metastore-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 4.2.0
+    created: "2026-04-27T10:17:57.749861+03:00"
     description: Hive Metastore for Superset and Trino
     digest: d70d28142c126e2856ed1c81c7ae68397d06fa24a6564e99b71a32ba3b6d96ce
     name: hive-metastore
@@ -13,7 +33,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 4.2.0
-    created: "2026-03-19T14:58:24.416948+02:00"
+    created: "2026-04-27T10:17:57.749419+03:00"
     description: Hive Metastore for Superset and Trino
     digest: 7303123359e1121723ec4662d9269a6bbf7b5405fbe85d14311a75b327b93a33
     name: hive-metastore
@@ -24,7 +44,7 @@ entries:
   zoneee-webhook:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2026-03-19T14:58:24.417618+02:00"
+    created: "2026-04-27T10:17:57.751448+03:00"
     description: Zone.ee DNS01 challenge solver for cert-manager
     digest: 46326e30eb383974fbf0e3bb7224fe5307c7912ff0712621b2c55b85b055a43a
     maintainers:
@@ -34,4 +54,4 @@ entries:
     urls:
     - https://vtarmo.github.io/helmcharts/docs/zoneee-webhook-1.0.0.tgz
     version: 1.0.0
-generated: "2026-03-19T14:58:24.416402+02:00"
+generated: "2026-04-27T10:17:57.747937+03:00"
